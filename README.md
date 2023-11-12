@@ -1,9 +1,9 @@
 # College-Website
 
-## Project
+## Project:
 
 This website is a clone of https://jaydipsinh-collegewebsite.netlify.app, a college website for Gokul BCA College.
 
-## Tech Stack
+## Tech Stack:
 
 HTML, CSS, JAVASCRIPT
