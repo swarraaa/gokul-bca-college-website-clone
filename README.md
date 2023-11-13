@@ -1,4 +1,5 @@
-# College-Website
+# College-Website:
+For academic purposes.
 
 ## Project:
 
