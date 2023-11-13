@@ -1,5 +1,5 @@
 # College-Website:
-For academic purposes
+For academic purposes.
 
 ## Project:
 
